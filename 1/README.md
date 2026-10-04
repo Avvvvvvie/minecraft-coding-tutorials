@@ -18,7 +18,8 @@ Your task is to research how to:
 1. call a function in javascript
 2. save the result of a function in a variable
 3. how to iterate a list
-4. how to build a text ("string") from each element in the list
+4. how to create a new string variable
+5. how to combine strings (=text) with other strings and numbers
 
 With that knowledge, you will be able to finish the TODOs that are in the HTML file. It is best done step by step. Don't worry if it doesn't work right away. You might have to google around a bit. If you use AI, only do it to explain the concepts that you don't understand. (You will not learn much if you use it to get the solution)
 

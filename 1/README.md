@@ -11,7 +11,7 @@ Inside the `<script>` element, we can code using javascript! When you open a htm
 
 For this project, we will generate commands with such code, and then we will display the commands in a html element. There is already a html element that has the id "result". This element is a `<div>` and just displays the text inside of it. In our javascript code, we can use the id of the result element to put text into it.
 
-Now onto our project. Imagine you want to make many particle circles and you don't want to calculate each circle yourself. Oh no math... Good thing that math people can do that work for you. In the HTML file, the calculation for the relative coordinates of a circle has already been written :D The function returns a list of points, based on the radius and the numberOfPoints.
+Now onto our project. Imagine you want to make many particle circles and you don't want to calculate each circle yourself. Oh no math... Good thing that math people on the internet can do that work for you. In the HTML file, the calculation for the relative coordinates of a circle has already been written :D The function returns a list of points, based on the radius and the numberOfPoints.
 
 The rest of the code has not been written yet.
 Your task is to research how to:

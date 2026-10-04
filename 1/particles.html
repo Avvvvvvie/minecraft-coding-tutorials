@@ -1,22 +1,24 @@
 <html>
-    
+
 <h1>Result:</h1>
 <div id="result"></div>
 
 <script>
+    console.log("start of code execution")
+
     function circle(radius, numberOfPoints) {
-        const points = [];
+        const points = []
 
         for (let i = 0; i < numberOfPoints; i++) {
-            const theta = (i * 2 * Math.PI) / numberOfPoints;
+            const theta = (i * 2 * Math.PI) / numberOfPoints
 
             points.push({
                 x: radius * Math.cos(theta),
                 y: radius * Math.sin(theta)
-            });
+            })
         }
 
-        return points;
+        return points
     }
 
     // TODO: Call the function with some radius, number of points and put the result into a variable.

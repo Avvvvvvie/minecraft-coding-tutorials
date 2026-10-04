@@ -24,3 +24,6 @@ Your task is to research how to:
 With that knowledge, you will be able to finish the TODOs that are in the HTML file. It is best done step by step. Don't worry if it doesn't work right away. You might have to google around a bit. If you use AI, only do it to explain the concepts that you don't understand. (You will not learn much if you use it to get the solution)
 
 If you have done all the TODOs, opening the HTML file in the browser will execute it and you should see the desired result.
+
+Another hint: You can use console.log to print something to the console. This is useful for debugging.
+The console can be opened in the browser by pressing F12 or shift+ctrl+i and then clicking on the "Console" tab.

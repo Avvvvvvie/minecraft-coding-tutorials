@@ -8,9 +8,9 @@ As you can see, you can type in a player name and see a lot of information about
 ---
 
 We will only do a small part. Open this html file in the browser to see how it looks right now.
-As you can see, there is an input element you can type into. It is a html element. We want to be able to type a player name into this input element and then display information about that player.
+As you can see, there is an input element you can type into. It is a html element. We want to be able to type a player name into this input element and then display information about that player. There are also a few other html elements: `<h1>` for large text, a `<div>` where we will display the user information text, and an `<img>` where we will be able to display the image of the player's skin.
 
-But how will we know that something was written into it?
+But how will we know that something was written into the input element?
 We have to execute code as soon as that happens!
 
 Luckily, in html, this can be done easily :)
@@ -22,7 +22,7 @@ Your task is to program the function displayUserInformation.
 
 ---
 
-The first step to achieve that, is to research how to *read the value of an input element*.
+The first step to achieve that, is to research how to *read the value of a html input element*.
 Hint: You can use the id of the input.
 
 ---
@@ -40,6 +40,10 @@ Now we want to get this data in our code. In other words, we want to write code 
 Your task is to:
 1. Find the code on the website (https://mc-api.io/docs), that receives the profile information using javascript.
 2. Find the code on the website, that receives the face picture using javascript.
+
+Hint: Search for "javascript" and look for the correct URL
+
+---
 
 Once you have the profile information, you will be able to access the variable `profile.uuid`.
 Your task is to display this UUID in the browser.

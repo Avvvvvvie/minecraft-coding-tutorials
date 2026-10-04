@@ -41,6 +41,8 @@ Your task is to:
 1. Find the code on the website (https://mc-api.io/docs), that receives the profile information using javascript.
 2. Find the code on the website, that receives the face picture using javascript.
 
+Hint: Search for "javascript" and look for the correct URL
+
 Once you have the profile information, you will be able to access the variable `profile.uuid`.
 Your task is to display this UUID in the browser.
 Hint: Use the html element with the id "result" like in project 1.

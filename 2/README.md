@@ -5,6 +5,8 @@ First of all, visit this link to see for yourself what is possible: https://mc-a
 
 As you can see, you can type in a player name and see a lot of information about it. It is very cool, but also a lot.
 
+---
+
 We will only do a small part. Open this html file in the browser to see how it looks right now.
 As you can see, there is an input element you can type into. It is a html element. We want to be able to type a player name into this input element and then display information about that player.
 
@@ -17,6 +19,8 @@ Whenever the value of the input element changes, we can tell it to give us a cal
 In our case, the input element was told to call the function "displayUserInformation" as soon as someone writes something into it. Can you see how this was done in the html file?
 
 Your Task is to program the function displayUserInformation.
+
+---
 
 The first step to achieve that, is to research how to *read the value of an input element*.
 Hint: You can use the id of the input.

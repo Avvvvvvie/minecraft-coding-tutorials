@@ -18,7 +18,7 @@ Whenever the value of the input element changes, we can tell it to give us a cal
 
 In our case, the input element was told to call the function "displayUserInformation" as soon as someone writes something into it. Can you see how this was done in the html file?
 
-Your Task is to program the function displayUserInformation.
+Your task is to program the function displayUserInformation.
 
 ---
 

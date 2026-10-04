@@ -1,0 +1,31 @@
+<html>
+<h1>Result:</h1>
+<div id="result"></div>
+<script>
+    function circle(radius, numberOfPoints) {
+        const points = [];
+
+        for (let i = 0; i < numberOfPoints; i++) {
+            const theta = (i * 2 * Math.PI) / numberOfPoints;
+
+            points.push({
+                x: radius * Math.cos(theta),
+                y: radius * Math.sin(theta)
+            });
+        }
+
+        return points;
+    }
+
+    // TODO: Call the function with some radius, number of points and put the result into a variable.
+
+    // TODO: Iterate all the points in the list
+
+    // TODO: In each iteration step, add a command to the final result text. The command should contain "~(point.x) ~ ~(point.y)"
+    // Hint: use "<br>" to add a line break to the text
+
+    // TODO: Put the result text into the result display element, like this:
+    // document.getElementById("result").innerHTML = ...
+
+</script>
+</html>

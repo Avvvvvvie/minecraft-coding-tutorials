@@ -1,0 +1,1 @@
+This is a collection of *minecraft-related* easy beginner coding tutorials / mini-projects.

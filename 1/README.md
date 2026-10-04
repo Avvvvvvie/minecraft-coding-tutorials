@@ -3,7 +3,7 @@
 The goal of this project is to generate minecraft particle commands so that we dont have to write a million lines by hand.
 
 There is a html file in this folder that can be displayed by any browser.
-Try opening it with your browser to see how it looks like right now.
+Try downloading it and opening it with your browser to see how it looks like right now.
 You will not see much, because we didn't code anything yet.
 But you will see what `<h1>Result:</h1>` does. It makes the text inside of it very big. All things in `<>` brackets are called html elements. They are the building blocks of a html file. Each element does something different based on the stuff inside it. Most elements display the text inside of them.
 

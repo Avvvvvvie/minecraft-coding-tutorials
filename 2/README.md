@@ -29,13 +29,17 @@ Hint: You can use the id of the input.
 
 The second step is to somehow get information about the username.
 
-For example, visiting https://mc-api.io/render/FACE/ByteException_/JAVA?size=256 gives you the face of the user ByteException_ on java
+Often, programmers get data from the internet using so called APIs. You can make a request to an API and it will give you structured data based on your request. Your browser also makes similar requests to websites, to receive the data to display the website.
 
-Visiting https://mc-api.io/profile/ByteException_/JAVA will give you a lot of other information, most importantly the UUID of the account.
+For example, visiting https://mc-api.io/render/FACE/ByteException_/JAVA?size=256 gives you the face of the user ByteException_ on java.
+
+Visiting https://mc-api.io/profile/ByteException_/JAVA will give you a lot of profile information, most importantly the UUID of the profile. It is typical structured data returned from an API.
+
+Now we want to get this data in our code. In other words, we want code that sends a request to the mc-api.io API and receives the data response. Luckily, the website already has code examples for us.
 
 Your task is to:
-1. Find the code on the website (https://mc-api.io/docs), that shows how to receive the profile information in javascript.
-2. Find the code on the website, that shows how to receive the face picture in javascript.
+1. Find the code on the website (https://mc-api.io/docs), that receives the profile information using javascript.
+2. Find the code on the website, that receives the face picture using javascript.
 
 Once you have the profile information, you will be able to access the variable `profile.uuid`.
 Your task is to display this UUID in the browser.

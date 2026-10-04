@@ -35,7 +35,7 @@ For example, visiting https://mc-api.io/render/FACE/ByteException_/JAVA?size=256
 
 Visiting https://mc-api.io/profile/ByteException_/JAVA will give you a lot of profile information, most importantly the UUID of the profile. It is typical structured data returned from an API.
 
-Now we want to get this data in our code. In other words, we want code that sends a request to the mc-api.io API and receives the data response. Luckily, the website already has code examples for us.
+Now we want to get this data in our code. In other words, we want to write code that sends a request to the mc-api.io API and receives the data response. Luckily, the website already has code examples for us.
 
 Your task is to:
 1. Find the code on the website (https://mc-api.io/docs), that receives the profile information using javascript.

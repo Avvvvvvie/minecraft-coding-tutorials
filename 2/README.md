@@ -22,7 +22,7 @@ Your task is to program the function displayUserInformation.
 
 ---
 
-The first step to achieve that, is to research how to *read the value of an input element*.
+The first step to achieve that, is to research how to *read the value of a html input element*.
 Hint: You can use the id of the input.
 
 ---

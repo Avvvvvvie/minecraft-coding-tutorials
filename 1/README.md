@@ -25,5 +25,5 @@ With that knowledge, you will be able to finish the TODOs that are in the HTML f
 
 If you have done all the TODOs, opening the HTML file in the browser will execute it and you should see the desired result.
 
-Another hint: You can use console.log to print something to the console. This is useful for debugging.
+Another hint: You can use console.log to output something to the console. This is useful for debugging.
 The console can be opened in the browser by pressing F12 or shift+ctrl+i and then clicking on the "Console" tab. It should say "start of code execution".

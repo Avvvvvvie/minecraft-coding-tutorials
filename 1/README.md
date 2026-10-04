@@ -7,7 +7,7 @@ Try downloading it and opening it with your browser to see how it looks like rig
 You will not see much, because we didn't code anything yet. It will also look ugly, because we don't care about that for now.
 But you will see what `<h1>Result:</h1>` does. It makes the text inside of it very big. The h stands for "heading". All things in `<>` brackets are called HTML elements. They are the building blocks of a HTML file. Each element does something different based on the stuff inside it. Most elements display the text inside of them.
 
-Inside the `<script>` element, we can code using javascript! When you open a HTML file with your browser, it will execute this code. The code can manipulate and change what is displayed in the browser. This is very powerful!
+Inside the `<script>` element, we can code using javascript! When you open/reload a HTML file with your browser, it will execute this code. The code can manipulate and change what is displayed in the browser. This is very powerful!
 
 For this project, we will generate commands with such code, and then we will display the commands in a HTML element. There is already a HTML element that has the id "result". This element is a `<div>` and just displays the text inside of it. In our javascript code, we can use the id of the result element to put text into it.
 

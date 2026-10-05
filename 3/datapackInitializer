@@ -1,0 +1,15 @@
+import fs from 'fs'
+
+console.log("Start of code execution")
+
+// TODO: Get the arguments from the command line that specifies the datapack name, description and namespace
+// Hint: process.argv is an array
+// datapackName = ??? 
+// description = ???
+// namespace = ???
+
+// TODO: Create folders using fs.mkdirSync
+// Question: What is the difference between fs.mkdirSync and fs.mkdir? When should you use one over the other?
+
+// TODO: Create files with content
+// Question: What is the difference between fs.writeFileSync and fs.appendFileSync? When should you use one over the other?

@@ -1,1 +1,0 @@
-@START node C:\Users\anima\Documents\GitHub\minecraft-coding-tutorials\3\datapackInitializer

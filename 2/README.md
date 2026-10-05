@@ -23,7 +23,7 @@ Your task is to program the function displayUserInformation.
 ---
 
 The first step to achieve that, is to research how to *read the value of a html input element*.
-Hint: You can use the id of the input.
+Hint: You can use the id of the input. Verify that you have gotten the value by using console.log(your value).
 
 ---
 
@@ -50,3 +50,5 @@ Your task is to display this UUID in the browser.
 Hint: Use the html element with the id "result" like in project 1.
 
 Once you have inserted the code for getting the face picture, it should be displayed automatically. (Because the example code on their website already does that work for you)
+
+Lastly, in the code that was given, replace the username ByteException_ in the URL with your input value.

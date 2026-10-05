@@ -2,7 +2,7 @@
 
 The goal of this project is to generate minecraft particle commands so that we don't have to write a million lines by hand.
 
-There is a [HTML file](https://github.com/Avvvvvvie/minecraft-coding-tutorials/blob/main/1/particles.html) in this folder that can be displayed by any browser. An HTML file is what defines what should be displayed on a website.
+There is a [HTML file](https://github.com/Avvvvvvie/minecraft-coding-tutorials/blob/main/1/particles.html) in this folder that can be displayed by any browser. A HTML file is what defines what should be displayed on a website.
 Websites online send their HTML file to your browser when you visit a site.
 Try downloading it and opening it with your browser to see how it looks like right now.
 You will not see much, because we didn't code anything yet. It will also look ugly, because we don't care about that for now.

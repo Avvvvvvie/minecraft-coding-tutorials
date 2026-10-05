@@ -1,4 +1,4 @@
-This is a collection of *minecraft-related*, guided, easy beginner coding mini-projects for javascript. If you like minecraft commands and want to learn to code, you might like this.
+This is a collection of *minecraft-related*, guided, easy beginner coding mini-projects for javascript. If you like minecraft commands and want to learn to code, you might like this. Each project requires a bit more knowledge than the previous.
 
 Project overview:
 1. [Generating particle commands](https://github.com/Avvvvvvie/minecraft-coding-tutorials/blob/main/1/README.md): Generate particle commands based on calculations that would be tedious to do by hand.

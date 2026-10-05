@@ -1,5 +1,5 @@
-// This function returns a list of 2d points relative to 0,0 that form a star
-function star(size, pointsPerSide, sides = 5, ratio = 0.382) {
+// This function returns a list of 2d points relative to 0,0 that form a mystery shape
+function mysteryShape(size, pointsPerSide, sides = 5, ratio = 0.382) {
   const points = [];
   const innerRadius = size * ratio;
 

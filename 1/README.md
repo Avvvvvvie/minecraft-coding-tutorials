@@ -32,6 +32,6 @@ If you have done all the TODOs, opening the HTML file in the browser will execut
 Another hint: You can use console.log to output something to the console. This is useful for debugging.
 The console can be opened in the browser by pressing F12 or shift+ctrl+i and then clicking on the "Console" tab. It should say "start of code execution".
 
-# Challenge
+### Challenge
 What is the other file in this folder? It contains another function that returns a list of points in the shape of ???.
 Can you figure out what it is?

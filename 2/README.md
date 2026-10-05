@@ -7,7 +7,7 @@ As you can see, you can type in a player name and see a lot of information about
 
 ---
 
-We will only do a small part. Open this html file in the browser to see how it looks right now.
+We will only do a small part. Open [this html file](https://github.com/Avvvvvvie/minecraft-coding-tutorials/blob/main/2/profiles.html) in the browser to see how it looks right now.
 As you can see, there is an input element you can type into. It is a html element. We want to be able to type a player name into this input element and then display information about that player. There are also a few other html elements: `<h1>` for large text, a `<div>` where we will display the user information text, and an `<img>` where we will be able to display the image of the player's skin.
 
 But how will we know that something was written into the input element?

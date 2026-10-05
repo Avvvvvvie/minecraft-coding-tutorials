@@ -31,7 +31,7 @@ The second step is to somehow get information about the username.
 
 Often, programmers get data from the internet using so called APIs. You can make a request to an API and it will give you structured data based on your request. Your browser also makes similar requests to websites, to receive the data to display the website.
 
-For example, visiting https://mc-api.io/render/FACE/ByteException_/JAVA?size=256 gives you the face of the user ByteException_ on java.
+For example, visiting https://mc-api.io/render/FACE/ByteException_/JAVA?size=256 gives you the face of the user ByteException_ on java. You can also get the HEAD, BUST or FULL.
 
 Visiting https://mc-api.io/profile/ByteException_/JAVA will give you a lot of profile information, most importantly the UUID of the profile. It is typical structured data returned from an API.
 
@@ -41,7 +41,7 @@ Your task is to:
 1. Find the code on the website (https://mc-api.io/docs), that receives the profile information using javascript.
 2. Find the code on the website, that receives the face picture using javascript.
 
-Hint: Search for "javascript" and look for the correct URL
+Hint 1: Search for "javascript" and look for the correct URL
 
 ---
 

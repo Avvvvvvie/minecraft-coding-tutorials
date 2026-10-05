@@ -8,7 +8,7 @@ The goal of this project is to have a command in the console of your computer, t
 ### How to run code from the console
 To run javascript on your computer / from the console, you have to install node. Node will execute the code for you. In other scripting languages, you would have to install something similar. In lower level languages, you would have to learn how to compile the code into binary, so your computer can execute it.
 
-Node can be downloaded here: https://nodejs.org/en/download. If you have installed it, you should be able to type `node --version` in your console and it will tell you what version is installed. If you have downloaded the javascript file in this folder, and run `node datapackInitializer.js` from a console that is opened in the same folder, you should get a message. Alternatively, the name of the file can be the full path of the file datapackInitializer.js.
+Node can be downloaded here: https://nodejs.org/en/download. If you have installed it, you should be able to type `node --version` in your console and it will tell you what version is installed. If you have downloaded the javascript file in this folder, and run `node datapackInitializer.js` from a console that is opened in the same folder, you should get a message. If you are not in the same folder, the name of the file in the command has to be the full path of the file datapackInitializer.js.
 
 ### How to receive arguments from a console command
 When node executes code, there will be a variable called `process.argv` that holds all arguments of the command that you wrote. Use console.log to find out what the current arguments are. Try to execute it again with more (fictional) arguments.

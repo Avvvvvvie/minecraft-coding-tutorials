@@ -54,7 +54,7 @@ Your task is to:
 1. Find the code on the website (https://mc-api.io/docs), that receives the profile information using javascript.
 2. Find the code on the website, that receives the face picture using javascript.
 
-Hint 1: Search for "javascript" and look for the correct URL
+Hint: Search for "javascript" and look for the correct URL
 
 ---
 

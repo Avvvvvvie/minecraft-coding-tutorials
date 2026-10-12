@@ -7,8 +7,21 @@ As you can see, you can type in a player name and see a lot of information about
 
 ---
 
-We will only do a small part. Open [this html file](https://github.com/Avvvvvvie/minecraft-coding-tutorials/blob/main/2/profiles.html) in the browser to see how it looks right now.
-As you can see, there is an input element you can type into. It is a html element. We want to be able to type a player name into this input element and then display information about that player. There are also a few other html elements: `<h1>` for large text, a `<div>` where we will display the user information text, and an `<img>` where we will be able to display the image of the player's skin.
+We will only do a small part. Open [this html file](https://github.com/Avvvvvvie/minecraft-coding-tutorials/blob/main/2/profiles.html) in the browser to see how it looks right now. 
+
+In contrast to the first project, this html file is a bit more complete, as it would be for a good website.
+This means that there are more html tags, which give your browser more information about your website. For example, in the `<html>` tag, you can tell your browser what language your website is written in.
+
+In the `<head>` tag, we provide even more meta information about the page.
+The information is either used by your browser, bots or search engines like google.
+On our page, there are 4 such tags that define:
+What the encoding of the text is, how large the page should be displayed
+and what title and icon should be displayed in the browser tab.
+There exist many more meta tags. Knowing the details of every tag in the head is not important, you just need to be familiar with the concept.
+
+In the `<body>` tag, we put everything that will be displayed on the page.
+Here it is more important to be familiar with the meaning of tags, as they can drastically change how something is displayed.
+As you can see, there is an `<input>` element you can type into. We want to be able to type a player name into this input element and then display information about that player. There are also a few other html elements: `<h1>` for large text, a `<div>` where we will display the user information text, and an `<img>` where we will be able to display the image of the player's skin.
 
 But how will we know that something was written into the input element?
 We have to execute code as soon as that happens!

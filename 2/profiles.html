@@ -1,29 +1,37 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minecraft Profile Lookup Tool</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='.8 .8 14.4 14.4'><path d='M10 8.99a1 1 0 00-.695 1.717l4.004 4a1 1 0 101.414-1.414l-4.004-4A1 1 0 0010 8.99z' fill='%2380b0ff' stroke='%235D7FDDaa' stroke-width='.3'/><path d='M6.508 1C3.48 1 1.002 3.474 1.002 6.5S3.48 12 6.508 12s5.504-2.474 5.504-5.5S9.536 1 6.508 1zm0 2a3.486 3.486 0 013.504 3.5c0 1.944-1.556 3.5-3.504 3.5a3.488 3.488 0 01-3.506-3.5C3.002 4.556 4.56 3 6.508 3z' fill='%2380b0ff' stroke='%235D7FDDaa' stroke-width='.3'/></svg>">
+</head>
+<body>
+    <h1>Enter a minecraft username:</h1>
+    <input placeholder="type something" type="text" id="userNameInput" onchange="displayUserInformation()">
 
-<h1>Enter a minecraft username:</h1>
-<input placeholder="type something" type="text" id="userNameInput" onchange="displayUserInformation()">
+    <h1>UUID of the user:</h1>
+    <div id="result"></div>
 
-<h1>UUID of the user:</h1>
-<div id="result"></div>
+    <h1>Picture of the user:</h1>
+    <img/>
 
-<h1>Picture of the user:</h1>
-<img/>
+    <script>
+        
+        function displayUserInformation() {
 
-<script>
-    
-    function displayUserInformation() {
+            console.log("the input was changed")
 
-        console.log("the input was changed")
+            // TODO: let userName = ???
 
-        // TODO: let userName = ???
+            // TODO: get the user UUID
 
-        // TODO: get the user UUID
+            // TODO: display the user UUID
 
-        // TODO: display the user UUID
+            // TODO: get the users face
 
-        // TODO: get the users face
+        }
 
-    }
-
-</script>
+    </script>
+</body>
 </html>

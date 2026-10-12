@@ -10,7 +10,7 @@ As you can see, you can type in a player name and see a lot of information about
 We will only do a small part. Open [this html file](https://github.com/Avvvvvvie/minecraft-coding-tutorials/blob/main/2/profiles.html) in the browser to see how it looks right now. 
 
 In contrast to the first project, this html file is a bit more complete, as it would be for a good website.
-This means that there are more html tags, which give your browser more information about your website. For example, in the `<html>` tag, you can tell your browser what language your website is written in.
+This means that there are more html tags, which give your browser more information about your page. For example, in the `<html>` tag, you can tell your browser what language your page is written in.
 
 In the `<head>` tag, we provide even more meta information about the page.
 This information is either used by your browser, bots or search engines like google.

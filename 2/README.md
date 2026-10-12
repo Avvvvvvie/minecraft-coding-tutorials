@@ -44,7 +44,7 @@ The second step is to somehow get information about the username.
 
 Often, programmers get data from the internet using so called APIs. You can make a request to an API and it will give you structured data based on your request. Your browser also makes similar requests to websites, to receive the data to display the website.
 
-For example, visiting https://mc-api.io/render/FACE/ByteException_/JAVA?size=256 gives you the face of the user ByteException_ on java. You can also get the HEAD, BUST or FULL.
+For example, visiting https://mc-api.io/render/FACE/ByteException_/JAVA?size=256 gives you the face of the user ByteException_ on java. You can change the username in that link to get any players head. You can also get the HEAD, BUST or FULL.
 
 Visiting https://mc-api.io/profile/ByteException_/JAVA will give you a lot of profile information, most importantly the UUID of the profile. It is typical structured data returned from an API.
 

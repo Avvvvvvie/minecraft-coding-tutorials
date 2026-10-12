@@ -1,6 +1,6 @@
 # Creating a tool that sets up a new datapack
 
-The goal of this project is to have a command in the console of your computer, that creates commonly used files like pack.mcmeta, data/minecraft/tags/tick.json and many more for you at the start of a new datapack project. If we want to create a slightly different setup depending on the name, description and namespace for the datapack, the command could look like this: `datapack-init "My Datapack" "This is an example datapack" "mydatapack"` To do this, we have to learn three things:
+The goal of this project is to have a command in the console of your computer, that creates commonly used files like pack.mcmeta, data/minecraft/tags/tick.json and many more for you at the start of a new datapack project. If we want to create a slightly different setup depending on the name, description and namespace for the datapack, the command could look like this: `datapack-init "My Datapack" "This is an example datapack description" "mydatapack"` To do this, we have to learn three things:
 1. How to run code from the console
 2. How to receive arguments from a console command
 3. How to interact with the file system of the computer

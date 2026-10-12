@@ -13,7 +13,7 @@ In contrast to the first project, this html file is a bit more complete, as it w
 This means that there are more html tags, which give your browser more information about your website. For example, in the `<html>` tag, you can tell your browser what language your website is written in.
 
 In the `<head>` tag, we provide even more meta information about the page.
-The information is either used by your browser, bots or search engines like google.
+This information is either used by your browser, bots or search engines like google.
 On our page, there are 4 such tags that define:
 What the encoding of the text is, how large the page should be displayed
 and what title and icon should be displayed in the browser tab.

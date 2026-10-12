@@ -64,4 +64,4 @@ Hint: Use the html element with the id "result" like in project 1.
 
 Once you have inserted the code for getting the face picture, it should be displayed automatically. (Because the example code on their website already does that work for you)
 
-Lastly, in the code that was given, replace the username ByteException_ in the URL with your input value. Can you look up yourself?
+Lastly, in the code that was given, replace the username ByteException_ in the URL with your input value. Can you look up your own account?

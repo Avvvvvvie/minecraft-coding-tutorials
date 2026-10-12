@@ -15,7 +15,7 @@ For this project, we will generate commands with such code, and then we will dis
 
 ### Generating Commands
 
-Now onto our project. Imagine you want to make many particle circles and you don't want to calculate each circle yourself. Oh no math... Good thing that math people on the internet can do that work for you. And in our times, there is another useful tool that can write it for you ;) In the HTML file, the calculation for the relative coordinates of a circle has already been written :D The function returns a list of points, based on the radius and the numberOfPoints.
+Now onto our project. Imagine you want to make many particle circles and you don't want to calculate each circle yourself. Oh no math... Good thing that math people on the internet can do that work for you. And in our times, there is another useful tool that can write it for you ;) In the HTML file, a function that calculates the relative coordinates of a circle has already been written :D The function returns a list of points, based on the radius and the numberOfPoints.
 
 The rest of the code has not been written yet.
 Your task is to research how to:
